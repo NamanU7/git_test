@@ -1,0 +1,4 @@
+Once upon a time there was a young man named Naman. Naman was following
+an open source web dev course, TOP, and this file is a test using git. 
+Git has 3 stages, Working tree, Staging area (index), Repository (Git directory).
+ 
